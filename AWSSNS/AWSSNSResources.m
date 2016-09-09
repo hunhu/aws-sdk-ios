@@ -14,7 +14,7 @@
 //
 
 #import "AWSSNSResources.h"
-#import <AWSCore/AWSLogging.h>
+#import "AWSLogging.h"
 
 @interface AWSSNSResources ()
 

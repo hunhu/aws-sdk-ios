@@ -14,7 +14,7 @@
 //
 
 #import "AWSLambdaResources.h"
-#import <AWSCore/AWSLogging.h>
+#import "AWSLogging.h"
 
 @interface AWSLambdaResources ()
 
